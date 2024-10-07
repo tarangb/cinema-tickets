@@ -1,0 +1,4 @@
+# Ignore IDE/project-specific files
+.idea/
+target/
+cinema-tickets-java/target/
